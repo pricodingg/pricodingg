@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pricodingg
-- 👀 I’m interested in coding
+- 👀 I’m interested in exploring technologies
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me :pm0009604@gmail.com
 - 
