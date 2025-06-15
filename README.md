@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pricodingg
+- 👋 Hi, I’m Priyaa
 - 👀 I’m interested in exploring technologies
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me :pm0009604@gmail.com
