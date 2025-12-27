@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyaa
-- 👀 I’m tech enthusiast
+- 👀 I’m a tech enthusiast
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me :pm0009604@gmail.com
 <!---
